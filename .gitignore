@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+agentvigil_demo.db
+.streamlit/secrets.toml
